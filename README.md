@@ -1,2 +1,2 @@
-Esse codigo vai pegar um arquvio XLSX e copiar para um arquivo TXT
-para finalizar o processo do codigo abra o gerenciador de tarefas e finalize o processo
+This code will take an XLSX file and copy it to a TXT file, running in the background for the time you specify.
+To terminate the process, open the Task Manager and end the process manually.
